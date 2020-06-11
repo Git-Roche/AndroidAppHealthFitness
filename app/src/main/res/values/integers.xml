@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="goal_protein">0</integer>
+    <integer name="goal_carb">0</integer>
+    <integer name="goal_fat">0</integer>
+    <integer name="goal_calories">0</integer>
+    <integer name="goal_pct_protein">0</integer>
+    <integer name="goal_pct_carb">0</integer>
+    <integer name="goal_pct_fat">0</integer>
+</resources>
